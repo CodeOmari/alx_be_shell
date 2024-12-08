@@ -1,3 +1,3 @@
-## Shell Permissions
+#!/bin/bash
 
-## This script changes the current user to user betty
+This script changes the current user to user betty
